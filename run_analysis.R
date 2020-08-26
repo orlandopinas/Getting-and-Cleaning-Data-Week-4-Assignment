@@ -1,7 +1,8 @@
-
+# Assignment Week 4 
 
 library(dplyr)
 # Download the file and unzip files into working directory (already set)
+
 
 FileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download.file(FileUrl, destfile = "./SmartphoneSourceData.zip")
