@@ -1,4 +1,4 @@
-# Cleaning and Getting Data Assignment Week 4 
+
 
 library(dplyr)
 # Download the file and unzip files into working directory (already set)
